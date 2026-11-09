@@ -1,16 +1,70 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Foreign Exchange Rate Converter
 
-Currently, two official plugins are available:
+A responsive foreign exchange rate converter built with React. Convert between different currencies using real-time exchange rate data, with historical exchange rate charts to visualize currency trends.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Live Demo
 
-## React Compiler
+[View Live Site](https://foreign-exchange-rate-moh-eight.vercel.app/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- Convert between different currencies.
+- Fetch the latest exchange rates using the Frankfurter API.
+- View historical exchange rate trends through interactive charts.
+- Select different currencies for conversion.
+- Responsive design for desktop and mobile devices.
+- Dynamic currency conversion based on the selected currencies and amount.
+
+## Built With
+
+- **React** – UI development.
+- **Vite** – Development environment and build tool.
+- **SCSS** – Styling and responsive layouts.
+- **Chart.js** – Data visualization and exchange rate charts.
+- **Frankfurter API** – Foreign exchange rate data.
+
+## Getting Started
+
+To run this project locally, follow these steps.
+
+### Prerequisites
+
+- Node.js
+- npm
+
+
+## API
+
+This project uses the [Frankfurter API](https://frankfurter.dev/) to retrieve foreign exchange rate data.
+
+The API provides access to:
+- Available currencies.
+- Latest exchange rates.
+- Historical exchange rates.
+
+No API key is required.
+
+## What I Learned
+
+Through this project, I practiced:
+
+- Building reusable components with React.
+- Managing application state and user interactions.
+- Fetching and handling API data.
+- Working with historical exchange rate data.
+- Integrating Chart.js into a React application.
+- Writing modular styles with SCSS.
+- Creating responsive layouts.
+
+## Acknowledgments
+
+- [Frontend Mentor](https://www.frontendmentor.io/) – For project inspiration and design challenges.
+- [Frankfurter API](https://frankfurter.dev/) – For exchange rate data.
+- [Chart.js](https://www.chartjs.org/) – For chart visualization.
+
+---
+
+Made with 🧊
