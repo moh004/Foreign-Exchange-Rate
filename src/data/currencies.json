@@ -1,0 +1,332 @@
+[
+  {
+    "flag": "/flags/ae.webp",
+    "iso_3": "AED",
+    "name": "United Arab Emirates Dirham",
+    "id": 1
+  },
+  {
+    "flag": "/flags/ar.webp",
+    "iso_3": "ARS",
+    "name": "Argentine Peso",
+    "id": 2
+  },
+  {
+    "flag": "/flags/au.webp",
+    "iso_3": "AUD",
+    "name": "Australian Dollar",
+    "id": 3
+  },
+  {
+    "flag": "/flags/bd.webp",
+    "iso_3": "BDT",
+    "name": "Bangladeshi Taka",
+    "id": 4
+  },
+  {
+    "flag": "/flags/bh.webp",
+    "iso_3": "BHD",
+    "name": "Bahraini Dinar",
+    "id": 5
+  },
+  {
+    "flag": "/flags/br.webp",
+    "iso_3": "BRL",
+    "name": "Brazilian Real",
+    "id": 6
+  },
+  {
+    "flag": "/flags/ca.webp",
+    "iso_3": "CAD",
+    "name": "Canadian Dollar",
+    "id": 7
+  },
+  {
+    "flag": "/flags/ch.webp",
+    "iso_3": "CHF",
+    "name": "Swiss Franc",
+    "id": 8
+  },
+  {
+    "flag": "/flags/cl.webp",
+    "iso_3": "CLP",
+    "name": "Chilean Peso",
+    "id": 9
+  },
+  {
+    "flag": "/flags/cn.webp",
+    "iso_3": "CNY",
+    "name": "Chinese Renminbi Yuan",
+    "id": 10
+  },
+  {
+    "flag": "/flags/co.webp",
+    "iso_3": "COP",
+    "name": "Colombian Peso",
+    "id": 11
+  },
+  {
+    "flag": "/flags/cz.webp",
+    "iso_3": "CZK",
+    "name": "Czech Koruna",
+    "id": 12
+  },
+  {
+    "flag": "/flags/dk.webp",
+    "iso_3": "DKK",
+    "name": "Danish Krone",
+    "id": 13
+  },
+  {
+    "flag": "/flags/eg.webp",
+    "iso_3": "EGP",
+    "name": "Egyptian Pound",
+    "id": 14
+  },
+  {
+    "flag": "/flags/eu.webp",
+    "iso_3": "EUR",
+    "name": "Euro",
+    "id": 15
+  },
+  {
+    "flag": "/flags/gb.webp",
+    "iso_3": "GBP",
+    "name": "British Pound",
+    "id": 16
+  },
+  {
+    "flag": "/flags/hk.webp",
+    "iso_3": "HKD",
+    "name": "Hong Kong Dollar",
+    "id": 17
+  },
+  {
+    "flag": "/flags/hn.webp",
+    "iso_3": "HNL",
+    "name": "Honduran Lempira",
+    "id": 18
+  },
+  {
+    "flag": "/flags/ht.webp",
+    "iso_3": "HTG",
+    "name": "Haitian Gourde",
+    "id": 19
+  },
+  {
+    "flag": "/flags/hu.webp",
+    "iso_3": "HUF",
+    "name": "Hungarian Forint",
+    "id": 20
+  },
+  {
+    "flag": "/flags/id.webp",
+    "iso_3": "IDR",
+    "name": "Indonesian Rupiah",
+    "id": 21
+  },
+  {
+    "flag": "/flags/in.webp",
+    "iso_3": "INR",
+    "name": "Indian Rupee",
+    "id": 22
+  },
+  {
+    "flag": "/flags/is.webp",
+    "iso_3": "ISK",
+    "name": "Icelandic Króna",
+    "id": 23
+  },
+  {
+    "flag": "/flags/jo.webp",
+    "iso_3": "JOD",
+    "name": "Jordanian Dinar",
+    "id": 24
+  },
+  {
+    "flag": "/flags/jp.webp",
+    "iso_3": "JPY",
+    "name": "Japanese Yen",
+    "id": 25
+  },
+  {
+    "flag": "/flags/ke.webp",
+    "iso_3": "KES",
+    "name": "Kenyan Shilling",
+    "id": 26
+  },
+  {
+    "flag": "/flags/kr.webp",
+    "iso_3": "KRW",
+    "name": "South Korean Won",
+    "id": 27
+  },
+  {
+    "flag": "/flags/kw.webp",
+    "iso_3": "KWD",
+    "name": "Kuwaiti Dinar",
+    "id": 28
+  },
+  {
+    "flag": "/flags/lb.webp",
+    "iso_3": "LBP",
+    "name": "Lebanese Pound",
+    "id": 29
+  },
+  {
+    "flag": "/flags/lk.webp",
+    "iso_3": "LKR",
+    "name": "Sri Lankan Rupee",
+    "id": 30
+  },
+  {
+    "flag": "/flags/ma.webp",
+    "iso_3": "MAD",
+    "name": "Moroccan Dirham",
+    "id": 31
+  },
+  {
+    "flag": "/flags/mx.webp",
+    "iso_3": "MXN",
+    "name": "Mexican Peso",
+    "id": 32
+  },
+  {
+    "flag": "/flags/my.webp",
+    "iso_3": "MYR",
+    "name": "Malaysian Ringgit",
+    "id": 33
+  },
+  {
+    "flag": "/flags/ng.webp",
+    "iso_3": "NGN",
+    "name": "Nigerian Naira",
+    "id": 34
+  },
+  {
+    "flag": "/flags/no.webp",
+    "iso_3": "NOK",
+    "name": "Norwegian Krone",
+    "id": 35
+  },
+  {
+    "flag": "/flags/np.webp",
+    "iso_3": "NPR",
+    "name": "Nepalese Rupee",
+    "id": 36
+  },
+  {
+    "flag": "/flags/nz.webp",
+    "iso_3": "NZD",
+    "name": "New Zealand Dollar",
+    "id": 37
+  },
+  {
+    "flag": "/flags/om.webp",
+    "iso_3": "OMR",
+    "name": "Omani Rial",
+    "id": 38
+  },
+  {
+    "flag": "/flags/pe.webp",
+    "iso_3": "PEN",
+    "name": "Peruvian Sol",
+    "id": 39
+  },
+  {
+    "flag": "/flags/ph.webp",
+    "iso_3": "PHP",
+    "name": "Philippine Peso",
+    "id": 40
+  },
+  {
+    "flag": "/flags/pk.webp",
+    "iso_3": "PKR",
+    "name": "Pakistani Rupee",
+    "id": 41
+  },
+  {
+    "flag": "/flags/pl.webp",
+    "iso_3": "PLN",
+    "name": "Polish Złoty",
+    "id": 42
+  },
+  {
+    "flag": "/flags/qa.webp",
+    "iso_3": "QAR",
+    "name": "Qatari Riyal",
+    "id": 43
+  },
+  {
+    "flag": "/flags/ro.webp",
+    "iso_3": "RON",
+    "name": "Romanian Leu",
+    "id": 44
+  },
+  {
+    "flag": "/flags/ru.webp",
+    "iso_3": "RUB",
+    "name": "Russian Ruble",
+    "id": 45
+  },
+  {
+    "flag": "/flags/sa.webp",
+    "iso_3": "SAR",
+    "name": "Saudi Riyal",
+    "id": 46
+  },
+  {
+    "flag": "/flags/se.webp",
+    "iso_3": "SEK",
+    "name": "Swedish Krona",
+    "id": 47
+  },
+  {
+    "flag": "/flags/sg.webp",
+    "iso_3": "SGD",
+    "name": "Singapore Dollar",
+    "id": 48
+  },
+  {
+    "flag": "/flags/th.webp",
+    "iso_3": "THB",
+    "name": "Thai Baht",
+    "id": 49
+  },
+  {
+    "flag": "/flags/tr.webp",
+    "iso_3": "TRY",
+    "name": "Turkish Lira",
+    "id": 50
+  },
+  {
+    "flag": "/flags/tw.webp",
+    "iso_3": "TWD",
+    "name": "New Taiwan Dollar",
+    "id": 51
+  },
+  {
+    "flag": "/flags/ua.webp",
+    "iso_3": "UAH",
+    "name": "Ukrainian Hryvnia",
+    "id": 52
+  },
+  {
+    "flag": "/flags/us.webp",
+    "iso_3": "USD",
+    "name": "United States Dollar",
+    "id": 53
+  },
+  {
+    "flag": "/flags/vn.webp",
+    "iso_3": "VND",
+    "name": "Vietnamese Đồng",
+    "id": 54
+  },
+  {
+    "flag": "/flags/za.webp",
+    "iso_3": "ZAR",
+    "name": "South African Rand",
+    "id": 55
+  }
+]

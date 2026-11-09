@@ -1,0 +1,126 @@
+:root {
+    --black: #0A0A0A;
+    --black700: #171719;
+    --black600: #202022;
+    --gray500: #2E2E2E;
+    --gray400: #3D3D3D;
+    --gray300: #454547;
+    --gray200: #9D9D9D;
+    --gray100: #C6C6C6;
+    --lime500: #CEF739;
+    --lime800: #283300;
+    --green: #42EB05;
+    --red: #FF4141;
+}
+.text-40-b {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 100%;
+    letter-spacing: -0.5px;
+}
+.text-32-b {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 100%;
+    letter-spacing: -0.5px;
+}
+.text-20-r {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 120%;
+    letter-spacing: -0.5px;
+}
+.text-20-b {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 140%;
+    letter-spacing: -0.5px;
+}
+
+.text-16-r {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 120%;
+    letter-spacing: 1px;
+}
+
+.text-16-m {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 120%;
+    letter-spacing: 1px;
+}
+
+.text-16-b {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 110%;
+    letter-spacing: 1px;
+}
+
+.text-14-r {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 120%;
+    letter-spacing: 1px;
+}
+
+.text-12-r {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 120%;
+    letter-spacing: 0.5px;
+}
+
+.text-12-m {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 130%;
+    letter-spacing: 0.5px;
+}
+
+.text-10-r {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 100%;
+    letter-spacing: 0;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: var(--black);
+    color: var(--gray200);
+    font-family: "JetBrains Mono", monospace;
+}
+main{
+    padding: 48px 32px;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+button{
+    cursor: pointer;
+    border: none;
+    font-family: "JetBrains Mono", monospace;
+}
+.white-txt{
+    color: #fff
+}
+.green{
+    color: var(--lime500);
+}
+.red{
+    color: var(--red);
+}
