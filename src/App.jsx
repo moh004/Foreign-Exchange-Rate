@@ -1,6 +1,6 @@
 import './styles/App.scss'
 import Header from './component/header'
-import Converter from './component/Converter'
+import Converter from './component/converter'
 
 function App() {
 
